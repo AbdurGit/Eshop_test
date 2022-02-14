@@ -1,0 +1,16 @@
+com\shopping\model\Cart.class
+com\shopping\repository\UserRepositoryImpl.class
+com\shopping\controller\UserController.class
+com\shopping\repository\IUserRepository.class
+com\shopping\model\Price.class
+com\shopping\model\Product.class
+com\shopping\business\UserBusiness.class
+com\shopping\repository\ProductRepoImpl.class
+com\shopping\controller\WelcomeController.class
+com\shopping\controller\ProductController.class
+com\shopping\model\ProductWishListMap.class
+com\shopping\model\Wishlist.class
+com\shopping\model\Student.class
+com\shopping\model\Book.class
+com\shopping\model\User.class
+com\shopping\repository\ProductsRepo.class
